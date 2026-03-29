@@ -1,8 +1,7 @@
-#  Movie Recommendation System
+# 🎬 Movie Recommendation System
 
 ##  Overview
-This project is a content-based movie recommendation system that suggests similar movies based on user input.
-
+This project is a content-based movie recommendation system that suggests similar movies using machine learning techniques like vectorization and cosine similarity.
 ##  Technologies Used
 - Python
 - Pandas, NumPy

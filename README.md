@@ -32,7 +32,8 @@ The similarity.pkl file is not uploaded due to large size. It can be generated b
 streamlit run app.py
 ```
 
-Output
+## Output
+
 !Movie App UI[(movie-app-ui.png)
 
 
